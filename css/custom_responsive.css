@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media only screen and (min-width: 1650px) and (max-width: 2560px) {
+
+}
+@media only screen and (min-width: 1367px) and (max-width: 1920px) {
+    body .container{max-width: 1440px;}
+}
+@media only screen and (min-width: 1367px) and (max-width: 1650px) {
+
+}
+@media only screen and (min-width: 1200px) and (max-width: 1366px) {
+    body .container{max-width: 1180px;}
+	.tts-slider .owl-item.active.center .item .ts-box .ts-content-sec .ts-quote-content ul li {
+		font-size: 25px;
+		margin-right: 0;
+	}
+}
+@media (max-width:1199px) {
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 992px) {
+    .navbar-toggleable-md .navbar-toggler {
+        display: none;
+    }
+    .navbar {
+        /*height: 130px;*/
+    }
+    #logo {
+        width: 260px;
+        height: 120px;
+        position: relative;
+        bottom: -20px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding-right: 75px;
+    }
+    #nav-left {
+        padding-left: 30px;
+    }
+}
+@media (max-width:767px) {
+
+
+
+}
+
+@media (max-width:425px){
+
+}
+
+@media (max-width:375px){
+
+
+}
+
+@media (min-width:320px) and (max-width:479px){
+
+
+}
+@media (max-width:320px){
+
+
+
+
+}
+
